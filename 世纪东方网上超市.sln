@@ -1,0 +1,189 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "http://localhost:89", "http://localhost:89", "{D93E9EDC-D5C4-487B-BD59-A39FEB2E80D8}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
+		ProjectReferences = "{ff735421-c80c-4623-ba36-4ec1bcc5acf8}|Ajax.dll;{509E8254-50E2-4B79-B148-809B51C87489}|BLL.dll;{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}|Common.dll;{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}|Model.dll;{F08CED5E-00B5-4508-BA65-39137ECEAF19}|DAL.dll;{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}|DBTools.dll;{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}|BPage.dll;{E281D457-F259-4F0B-8608-16C81D8AE97B}|jpush-api.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_89"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\anli\商家公共平台\世纪东方线下商超\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_89\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_89"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\anli\商家公共平台\世纪东方线下商超\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_89\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\anli\商家公共平台\世纪东方线下商超\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajax", "..\..\..\..\anli\商家公共平台\Ajax\Ajax.csproj", "{FF735421-C80C-4623-BA36-4EC1BCC5ACF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\..\..\..\anli\商家公共平台\BLL\BLL.csproj", "{509E8254-50E2-4B79-B148-809B51C87489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPage", "..\..\..\..\anli\商家公共平台\BPage\BPage.csproj", "{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "..\..\..\..\anli\商家公共平台\Common\Common.csproj", "{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\..\..\..\anli\商家公共平台\DAL\DAL.csproj", "{F08CED5E-00B5-4508-BA65-39137ECEAF19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBTools", "..\..\..\..\anli\商家公共平台\DBTools\DBTools.csproj", "{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "..\..\..\..\anli\商家公共平台\Model\Model.csproj", "{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cn.jpush.api", "..\..\..\..\anli\商家公共平台\cn.jpush.api\cn.jpush.api.csproj", "{E281D457-F259-4F0B-8608-16C81D8AE97B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{50672444-C9A2-4285-8767-162AD80637C1}"
+	ProjectSection(SolutionItems) = preProject
+		WebEssentials2015-Settings.json = WebEssentials2015-Settings.json
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "世纪东方超市", "..\..\..\..\APICloud\workspace\世纪东方超市", "{4F2894E3-37CD-4A0C-8661-05934AEC19A0}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_29813"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\APICloud\workspace\世纪东方超市\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_29813\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_29813"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\APICloud\workspace\世纪东方超市\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_29813\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "29813"
+		SlnRelativePath = "..\..\..\..\APICloud\workspace\世纪东方超市\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		33|Any CPU = 33|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D93E9EDC-D5C4-487B-BD59-A39FEB2E80D8}.33|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93E9EDC-D5C4-487B-BD59-A39FEB2E80D8}.33|Any CPU.Build.0 = Debug|Any CPU
+		{D93E9EDC-D5C4-487B-BD59-A39FEB2E80D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93E9EDC-D5C4-487B-BD59-A39FEB2E80D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93E9EDC-D5C4-487B-BD59-A39FEB2E80D8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93E9EDC-D5C4-487B-BD59-A39FEB2E80D8}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{FF735421-C80C-4623-BA36-4EC1BCC5ACF8}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{FF735421-C80C-4623-BA36-4EC1BCC5ACF8}.33|Any CPU.Build.0 = Release|Any CPU
+		{FF735421-C80C-4623-BA36-4EC1BCC5ACF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF735421-C80C-4623-BA36-4EC1BCC5ACF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF735421-C80C-4623-BA36-4EC1BCC5ACF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF735421-C80C-4623-BA36-4EC1BCC5ACF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509E8254-50E2-4B79-B148-809B51C87489}.33|Any CPU.ActiveCfg = 33|Any CPU
+		{509E8254-50E2-4B79-B148-809B51C87489}.33|Any CPU.Build.0 = 33|Any CPU
+		{509E8254-50E2-4B79-B148-809B51C87489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509E8254-50E2-4B79-B148-809B51C87489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509E8254-50E2-4B79-B148-809B51C87489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509E8254-50E2-4B79-B148-809B51C87489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}.33|Any CPU.Build.0 = Release|Any CPU
+		{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}.33|Any CPU.Build.0 = Release|Any CPU
+		{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F08CED5E-00B5-4508-BA65-39137ECEAF19}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{F08CED5E-00B5-4508-BA65-39137ECEAF19}.33|Any CPU.Build.0 = Release|Any CPU
+		{F08CED5E-00B5-4508-BA65-39137ECEAF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08CED5E-00B5-4508-BA65-39137ECEAF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08CED5E-00B5-4508-BA65-39137ECEAF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08CED5E-00B5-4508-BA65-39137ECEAF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}.33|Any CPU.Build.0 = Release|Any CPU
+		{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}.33|Any CPU.Build.0 = Release|Any CPU
+		{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.33|Any CPU.Build.0 = Release|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F2894E3-37CD-4A0C-8661-05934AEC19A0}.33|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2894E3-37CD-4A0C-8661-05934AEC19A0}.33|Any CPU.Build.0 = Debug|Any CPU
+		{4F2894E3-37CD-4A0C-8661-05934AEC19A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2894E3-37CD-4A0C-8661-05934AEC19A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2894E3-37CD-4A0C-8661-05934AEC19A0}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2894E3-37CD-4A0C-8661-05934AEC19A0}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://116.255.167.132:8080/tfs/anli
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\..\\..\\..\\anli\\商家公共平台\\Ajax\\Ajax.csproj
+		SccProjectName1 = ../商家公共平台/Ajax
+		SccLocalPath1 = ..\\..\\..\\..\\anli\\商家公共平台\\Ajax
+		SccProjectUniqueName2 = ..\\..\\..\\..\\anli\\商家公共平台\\BLL\\BLL.csproj
+		SccProjectName2 = ../商家公共平台/BLL
+		SccLocalPath2 = ..\\..\\..\\..\\anli\\商家公共平台\\BLL
+		SccProjectUniqueName3 = ..\\..\\..\\..\\anli\\商家公共平台\\BPage\\BPage.csproj
+		SccProjectName3 = ../商家公共平台/BPage
+		SccLocalPath3 = ..\\..\\..\\..\\anli\\商家公共平台\\BPage
+		SccProjectUniqueName4 = ..\\..\\..\\..\\anli\\商家公共平台\\Common\\Common.csproj
+		SccProjectName4 = ../商家公共平台/Common
+		SccLocalPath4 = ..\\..\\..\\..\\anli\\商家公共平台\\Common
+		SccProjectUniqueName5 = ..\\..\\..\\..\\anli\\商家公共平台\\DAL\\DAL.csproj
+		SccProjectName5 = ../商家公共平台/DAL
+		SccLocalPath5 = ..\\..\\..\\..\\anli\\商家公共平台\\DAL
+		SccProjectUniqueName6 = ..\\..\\..\\..\\anli\\商家公共平台\\DBTools\\DBTools.csproj
+		SccProjectName6 = ../商家公共平台/DBTools
+		SccLocalPath6 = ..\\..\\..\\..\\anli\\商家公共平台\\DBTools
+		SccProjectUniqueName7 = ..\\..\\..\\..\\anli\\商家公共平台\\Model\\Model.csproj
+		SccProjectName7 = ../商家公共平台/Model
+		SccLocalPath7 = ..\\..\\..\\..\\anli\\商家公共平台\\Model
+		SccProjectUniqueName8 = ..\\..\\..\\..\\anli\\商家公共平台\\cn.jpush.api\\cn.jpush.api.csproj
+		SccProjectName8 = ../商家公共平台/cn.jpush.api
+		SccLocalPath8 = ..\\..\\..\\..\\anli\\商家公共平台\\cn.jpush.api
+		SccWebProject9 = true
+		SccProjectUniqueName9 = http://localhost:89
+		SccProjectName9 = ../商家公共平台/世纪东方线下商超
+		SccLocalPath9 = ..\\..\\..\\..\\anli\\商家公共平台\\世纪东方线下商超
+		SccProjectEnlistmentChoice9 = 2
+		SccWebProject10 = true
+		SccProjectUniqueName10 = ..\\..\\..\\..\\APICloud\\workspace\\世纪东方超市
+		SccProjectName10 = 世纪东方超市_1
+		SccLocalPath10 = ..\\..\\..\\..\\APICloud\\workspace\\世纪东方超市
+		SccProjectEnlistmentChoice10 = 2
+	EndGlobalSection
+EndGlobal

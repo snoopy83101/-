@@ -1,0 +1,175 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajax", "..\..\..\..\anli\商家公共平台\Ajax\Ajax.csproj", "{FF735421-C80C-4623-BA36-4EC1BCC5ACF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\..\..\..\anli\商家公共平台\BLL\BLL.csproj", "{509E8254-50E2-4B79-B148-809B51C87489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPage", "..\..\..\..\anli\商家公共平台\BPage\BPage.csproj", "{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cn.jpush.api", "..\..\..\..\anli\商家公共平台\cn.jpush.api\cn.jpush.api.csproj", "{E281D457-F259-4F0B-8608-16C81D8AE97B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "..\..\..\..\anli\商家公共平台\Common\Common.csproj", "{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\..\..\..\anli\商家公共平台\DAL\DAL.csproj", "{F08CED5E-00B5-4508-BA65-39137ECEAF19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBTools", "..\..\..\..\anli\商家公共平台\DBTools\DBTools.csproj", "{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "..\..\..\..\anli\商家公共平台\Model\Model.csproj", "{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "U家社仓(2)", "..\..\..\..\APICloud\workspace\U家社仓\", "{13DE3980-A62B-4443-8CD1-895D9A4E831C}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""
+		SccAuxPath = ""
+		SccLocalPath = ""
+		SccProvider = ""
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_3464"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\APICloud\workspace\U家社仓\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3464\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_3464"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\APICloud\workspace\U家社仓\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3464\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3464"
+		SlnRelativePath = "..\..\..\..\APICloud\workspace\U家社仓\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U家社仓Web", "..\..\..\..\anli\商家公共平台\U家社仓Web\U家社仓Web.csproj", "{26F16640-7B24-437E-9F01-E8353D614453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "接口", "..\..\..\..\anli\商家公共平台\接口\接口.csproj", "{3C4139F9-BAB3-4D50-BC17-63FB32BF6A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "管理后台", "..\..\..\..\anli\商家公共平台\Web\Web\管理后台.csproj", "{FA5FA2CE-06BB-43D4-92B0-4AE9D8066181}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "U家社仓管理终端", "..\..\..\..\APICloud\workspace\U家社仓管理终端\", "{9DB7F7CE-8D5E-4AE0-99DA-517FF638A658}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""
+		SccAuxPath = ""
+		SccLocalPath = ""
+		SccProvider = ""
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_65463"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\APICloud\workspace\U家社仓管理终端\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65463\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_65463"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\APICloud\workspace\U家社仓管理终端\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65463\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "65463"
+		SlnRelativePath = "..\..\..\..\APICloud\workspace\U家社仓管理终端\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计划任务", "..\..\..\..\anli\商家公共平台\计划任务\计划任务.csproj", "{65141FB4-4752-4DE7-8827-EB2DDC7107B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		33|Any CPU = 33|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF735421-C80C-4623-BA36-4EC1BCC5ACF8}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{FF735421-C80C-4623-BA36-4EC1BCC5ACF8}.33|Any CPU.Build.0 = Release|Any CPU
+		{FF735421-C80C-4623-BA36-4EC1BCC5ACF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF735421-C80C-4623-BA36-4EC1BCC5ACF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF735421-C80C-4623-BA36-4EC1BCC5ACF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF735421-C80C-4623-BA36-4EC1BCC5ACF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509E8254-50E2-4B79-B148-809B51C87489}.33|Any CPU.ActiveCfg = 33|Any CPU
+		{509E8254-50E2-4B79-B148-809B51C87489}.33|Any CPU.Build.0 = 33|Any CPU
+		{509E8254-50E2-4B79-B148-809B51C87489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509E8254-50E2-4B79-B148-809B51C87489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509E8254-50E2-4B79-B148-809B51C87489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509E8254-50E2-4B79-B148-809B51C87489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}.33|Any CPU.Build.0 = Release|Any CPU
+		{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F469D80-3BFE-4745-9434-9FBB04DD8D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.33|Any CPU.Build.0 = Release|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}.33|Any CPU.Build.0 = Release|Any CPU
+		{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC06AE7D-9D14-410E-8A15-0ED8EC4112CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F08CED5E-00B5-4508-BA65-39137ECEAF19}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{F08CED5E-00B5-4508-BA65-39137ECEAF19}.33|Any CPU.Build.0 = Release|Any CPU
+		{F08CED5E-00B5-4508-BA65-39137ECEAF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08CED5E-00B5-4508-BA65-39137ECEAF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08CED5E-00B5-4508-BA65-39137ECEAF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08CED5E-00B5-4508-BA65-39137ECEAF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}.33|Any CPU.Build.0 = Release|Any CPU
+		{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AB7F8C-CEA9-4196-B283-19BCD5E81B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}.33|Any CPU.Build.0 = Release|Any CPU
+		{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577B9B4B-BB31-46EA-AE73-E7E34AAAF16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DE3980-A62B-4443-8CD1-895D9A4E831C}.33|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DE3980-A62B-4443-8CD1-895D9A4E831C}.33|Any CPU.Build.0 = Debug|Any CPU
+		{13DE3980-A62B-4443-8CD1-895D9A4E831C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DE3980-A62B-4443-8CD1-895D9A4E831C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DE3980-A62B-4443-8CD1-895D9A4E831C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DE3980-A62B-4443-8CD1-895D9A4E831C}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{26F16640-7B24-437E-9F01-E8353D614453}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{26F16640-7B24-437E-9F01-E8353D614453}.33|Any CPU.Build.0 = Release|Any CPU
+		{26F16640-7B24-437E-9F01-E8353D614453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F16640-7B24-437E-9F01-E8353D614453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F16640-7B24-437E-9F01-E8353D614453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F16640-7B24-437E-9F01-E8353D614453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4139F9-BAB3-4D50-BC17-63FB32BF6A26}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4139F9-BAB3-4D50-BC17-63FB32BF6A26}.33|Any CPU.Build.0 = Release|Any CPU
+		{3C4139F9-BAB3-4D50-BC17-63FB32BF6A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4139F9-BAB3-4D50-BC17-63FB32BF6A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4139F9-BAB3-4D50-BC17-63FB32BF6A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4139F9-BAB3-4D50-BC17-63FB32BF6A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5FA2CE-06BB-43D4-92B0-4AE9D8066181}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5FA2CE-06BB-43D4-92B0-4AE9D8066181}.33|Any CPU.Build.0 = Release|Any CPU
+		{FA5FA2CE-06BB-43D4-92B0-4AE9D8066181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5FA2CE-06BB-43D4-92B0-4AE9D8066181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5FA2CE-06BB-43D4-92B0-4AE9D8066181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5FA2CE-06BB-43D4-92B0-4AE9D8066181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB7F7CE-8D5E-4AE0-99DA-517FF638A658}.33|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB7F7CE-8D5E-4AE0-99DA-517FF638A658}.33|Any CPU.Build.0 = Debug|Any CPU
+		{9DB7F7CE-8D5E-4AE0-99DA-517FF638A658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB7F7CE-8D5E-4AE0-99DA-517FF638A658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB7F7CE-8D5E-4AE0-99DA-517FF638A658}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB7F7CE-8D5E-4AE0-99DA-517FF638A658}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{65141FB4-4752-4DE7-8827-EB2DDC7107B2}.33|Any CPU.ActiveCfg = Release|Any CPU
+		{65141FB4-4752-4DE7-8827-EB2DDC7107B2}.33|Any CPU.Build.0 = Release|Any CPU
+		{65141FB4-4752-4DE7-8827-EB2DDC7107B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65141FB4-4752-4DE7-8827-EB2DDC7107B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65141FB4-4752-4DE7-8827-EB2DDC7107B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65141FB4-4752-4DE7-8827-EB2DDC7107B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
